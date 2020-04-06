@@ -1,7 +1,7 @@
-# Simple template for API using express
+# Simple template Next
 
 ### Installation
-- 
+- git clone <url>
 
 ### For Development
 - yarn run dev
